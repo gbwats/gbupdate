@@ -1,1 +1,1 @@
-{'ver1':'28', 'ver2':'00', 'ver3':'\n•[تعزير]الحماية ضد الحظر \n•\n' , 'dli':'https://whatsplus-ar.net/gbwhatsapp-apk'}
+{'ver1':'29', 'ver2':'00', 'ver3':'\n•[تعزير]الحماية ضد الحظر \n•\n' , 'dli':'https://whatsplus-ar.net/gbwhatsapp-apk'}
